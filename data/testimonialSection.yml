@@ -1,0 +1,31 @@
+---
+enable: true
+topTitle: Opinie
+title: >
+  ## Co inni mówią na mój temat?
+
+testimonial:
+  - name: EA 
+    comment: Bardzo dobry specjalista, osoba empatyczna i profesjonalna w swoim zawodzie. Szczerze polecam wizytę u Pani Julii!
+    time: 15 czerwca 2022
+  - name: Natalia N
+    comment: Brałam udział w warsztatach prowadzonych przez Julię i jestem zachwycona. Julia daje wszystkim przestrzeń na wygłoszenie swojej opinii, daje ludziom mówić i dobrze słucha. Polecam bardzo serdecznie.
+    time: 24 maja 2022
+  - name: Zofia Ł.
+    comment: Już parokrotnie brałam udział w spotkaniach organizowanych i prowadzonych przez Panią Julię - to co mogę o niej powiedzieć - to że to niezwykle ciepła, uważna i co najważniejsze - profesjonalna osoba. Spotkania z Panią Julią - zapisały się dla mnie jako jedno z ważniejszych elementów na drodze poznawania i pracowania z moją seksualnością. Był to jeden z wielu elementów wypracowywania samoświadomości i pewności siebie. Polecam każdemu, potrzebującemu porady i spotkań w tak delikatnym i intymnym zakresie.
+    time: 22 maja 2022
+  - name: Izabella Kamińska
+    comment: Świetna specjalistka i bardzo kompetentna osoba. Z całego serca polecam warsztaty seksuologiczne! :)
+    time: 23 kwietnia 2022
+  - name: Kasia S.
+    comment: Miałam przyjemność brać udział w warsztatach dla kobiet organizowanych przez Panią Julię. Niezwykle inspirujące. Pani Julia jest bardzo zaangażowana w to co robi, posiada ogrom wiedzy oraz potrafi ją wspaniale wykorzystać. Stworzyła wspaniałą przestrzeń dla kobiet, które chcą się rozwijać. Zdecydowanie polecam!
+    time: 22 kwietnia 2022
+  - name: Natalia R.
+    comment: Brałam udział w warsztatach organizowanych przez Panią Julię i jestem zachwycona jej otwartością i zaangażowaniem! Podczas spotkania panowała bezpieczna atmosfera, a Pani Julia jest wspaniałą specjalistką pełną empatii. Z całego serca polecam!
+    time: 22 kwietnia 2022
+  - name: A. P.
+    comment: Uczestniczyłam w warsztatach pani Julii i jestem pod ogromnym wrażeniem zaangażowania i bezpiecznej atmosfery, jaką stwarza Pani Julia. Świetna psycholożka - serdecznie polecam!
+    time: 15 kwietnia 2022
+  - name: Magdalena Ś.
+    comment: Pani Julia jest bardzo kompetentną specjalistką. Widać podczas rozmowy, że cały czas się dokształca i jest „na czasie” z aktualną wiedzą. Oprócz tego jest pełną empatii i zaangażowania osobą. Szczerze polecam! M.Ś.
+    time: 4 kwietnia 2022
