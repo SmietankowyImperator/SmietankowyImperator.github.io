@@ -2,7 +2,7 @@ baseURL = "https://bilarzewska.pl/"
 languageCode = "en-us"
 paginate = 6
 theme = "roxo"
-title = "roxo"
+title = "Bilarzewska.pl"
 # Main Menu
 [[menu.main]]
 name = "Home"
