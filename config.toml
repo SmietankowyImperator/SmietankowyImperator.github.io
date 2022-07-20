@@ -63,7 +63,7 @@ openingHours = "Godziny konsultacji 8-19"
 phone = "+48 690 173 710"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
+APIkey = "AIzaSyANsIv7WYNnQaHI2x1f3_2oGz5nVdfnqXU"
 latitude = "23.7783741"
 longitude = "90.3746808"
 pinImage = "images/pin.png"
