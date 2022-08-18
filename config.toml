@@ -60,7 +60,7 @@ logo = "images/site-navigation/logo.png"
 address = "Słowackiego 17/5"
 email = "julia@bilarzewska.pl"
 openingHours = "Godziny konsultacji 8-19"
-phone = "+48 690 173 710"
+phone = "+48 503 759 458"
 
 [params.map]
 APIkey = "YOUR API KEY"

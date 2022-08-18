@@ -27,7 +27,7 @@ Koszt: 25 zł. Cena obejmuje także kawę/herbatę.
 
 ### Gdzie: 
 HOUSE Szkolna ul. Szkolna 17, Poznań
-Zapisy: julia@bilarzewska.pl lub pod numerem telefonu +48 690173710.
+Zapisy: julia@bilarzewska.pl lub pod numerem telefonu +48 503759458.
 Ze względu na warsztatowy charakter spotkania Ilość miejsc jest ograniczona.
 
 
